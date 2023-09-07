@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @binbash23
 - 👀 I’m interested in problem solving concepts, databases, scripting, data analysis
-- 🌱 I’m currently learning python, sqlite
+- 🌱 I love python and sqlite
 - 💞️ I’m looking to collaborate on fascinating stuff
 - 📫 How to reach me <binbash@gmx.net>
 
