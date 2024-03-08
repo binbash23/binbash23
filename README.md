@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @binbash23
-- 👀 I’m interested in problem solving concepts, databases, scripting, data analysis, security
+- 👀 I’m interested in problem solving concepts, databases, scripting, data analysis, security, datawarehouses, business intelligence
 - 📫 How to reach me <binbash@gmx.net>
 
 <!---
